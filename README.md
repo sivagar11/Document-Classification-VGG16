@@ -14,7 +14,7 @@ The training script uses a bank document dataset to fine-tune the pre-trained VG
 
 The detect_documents.py script applies the trained VGG16 model to input images, providing classification results for bank documents.
 
-#Customization
+# Customization
 
 Adjust the training script to fit your dataset structure and classes.
 
